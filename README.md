@@ -1,5 +1,6 @@
 # LSTM-NLP-Vietnamese-Tensorflow-
-Tenrsorflow ver: 1.10.0 \n
-With 15 epochs -
-F1 score: 73.4%-
-Accuracy: 67,17%
+Tenrsorflow version: 1.10.0 <br />
+Word Embedding(Word2Vec): 300 dims <br />
+With 15 epochs, <br />
+F1 score: 73.4%<br />
+Accuracy: 67,17%<br />
