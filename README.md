@@ -5,3 +5,6 @@ Tenrsorflow version: 1.10.0 <br />
 With 22 epochs, <br />
 F1 score: 74.43%<br />
 Accuracy: 69.71%<br />
+### 2. BiLSTM - Char_embeddings - word_embeddings - CRFs on top <br />
+F1 score: 88.06% <br/>
+Accuracy: 86.65% <br/>
